@@ -1,4 +1,4 @@
-package com.challenge.demo.twosum;
+package com.challenge.demo;
 
 /**
  * Given an array of integers numbers and an integer target, return indexes of the two numbers such that they add up to the target.

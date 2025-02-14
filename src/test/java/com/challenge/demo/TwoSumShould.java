@@ -1,4 +1,4 @@
-package com.challenge.demo.twosum;
+package com.challenge.demo;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
